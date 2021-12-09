@@ -5,4 +5,4 @@ Some description
 
 ## Sidebar
 
-Watch tutorial on YouTube!git statusasgf
+Watch tutorial on YouTube!
